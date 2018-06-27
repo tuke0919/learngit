@@ -2,3 +2,7 @@ this is a new file.txt
 
 add
 
+
+I want to add somethong in this file
+
+you like it
